@@ -1,2 +1,4 @@
 #!/bin/bash
-Printenv
+echo "listing enviroment variables"
+echo "____________________________"
+printenv
